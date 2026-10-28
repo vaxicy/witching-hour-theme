@@ -1,0 +1,10 @@
+{
+  "name": "Witching Hour",
+  "colors": {
+    "pumpkin": "#E8722A",
+    "slime": "#A8D06A",
+    "blood": "#B0303F",
+    "candle": "#E8C66A",
+    "night": "#1E1626"
+  }
+}

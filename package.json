@@ -1,0 +1,44 @@
+{
+  "name": "witching-hour-theme",
+  "displayName": "Witching Hour Theme",
+  "description": "Pumpkin cream by day and a charcoal violet night: an orange, slime green and blood red palette for late sessions.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "halloween",
+    "pumpkin"
+  ],
+  "icon": "assets/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#1E1626",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/witching-hour-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Witching Hour Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/witching-hour-light-color-theme.json"
+      },
+      {
+        "label": "Witching Hour Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/witching-hour-dark-color-theme.json"
+      }
+    ]
+  }
+}

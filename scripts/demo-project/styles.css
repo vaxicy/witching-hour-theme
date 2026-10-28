@@ -1,0 +1,16 @@
+:root {
+  --pumpkin: #e8722a;
+  --slime: #a8d06a;
+  --blood: #b0303f;
+  --candle: #e8c66a;
+  --night: #1e1626;
+  --ink: #2a1c33;
+}
+
+.spell-card {
+  background: #fbf3e4;
+  border: 1px solid var(--candle);
+  border-radius: 14px;
+  color: var(--ink);
+  padding: 16px 20px;
+}
