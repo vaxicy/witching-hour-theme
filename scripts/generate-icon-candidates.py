@@ -153,7 +153,7 @@ def cand_bat():
     # eyes
     disc(d, (486, 512), 17, PUMPKIN)
     disc(d, (538, 512), 17, PUMPKIN)
-    disc(d, (512, 300), 30, SLIME)
+    disc(d, (756, 292), 32, SLIME)
 
     return finish(img)
 
